@@ -407,7 +407,7 @@ Resources:
     Properties:
       SubnetId:
         Ref: 'PrivateSubnet1'
-      ImageId: ami-0c3072296a5178772
+      ImageId: ami-0c7c4e3c6b4941f0f
       InstanceType: t2.micro
 
 Outputs:
